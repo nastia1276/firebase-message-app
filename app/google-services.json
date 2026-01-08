@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627018718579",
+    "project_id": "messageapp-3cad2",
+    "storage_bucket": "messageapp-3cad2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627018718579:android:a31c82674c221bed153906",
+        "android_client_info": {
+          "package_name": "com.example.firebasecomposemessageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627018718579-ohd59cv1um2qec459f0rn0gsrndc8het.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecomposemessageapp",
+            "certificate_hash": "92390b1615c309b128cef2e226bca84b0dac5d78"
+          }
+        },
+        {
+          "client_id": "627018718579-v2ccul0bg81uno1c3kjv5jcr979h3cqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmo64B1Qvx8zzFbAXRC07KVBfShgtn10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627018718579-v2ccul0bg81uno1c3kjv5jcr979h3cqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
